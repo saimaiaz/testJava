@@ -18,13 +18,13 @@ import javax.swing.border.TitledBorder;
 
 // https://stackoverflow.com/questions/33576358/how-to-use-java-swing-layout-manager-to-make-this-gui
 
-public class TestLayout {
+public class exampleCode {
 
-    public static void main(String[] args) {
-        new TestLayout();
-    }
+//    public static void main(String[] args) {
+//        new TestLayout();
+//    }
 
-    public TestLayout() {
+    public exampleCode() {
         EventQueue.invokeLater(new Runnable() {
             @Override
             public void run() {
